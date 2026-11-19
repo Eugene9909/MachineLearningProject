@@ -5,7 +5,7 @@
    "execution_count": 1,
    "id": "ad15eaa2-62af-46f5-acae-58b0c01eb6bf",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
